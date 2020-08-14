@@ -13,8 +13,12 @@ Introduction to ReactJS.
   cd todo-app
   npm start
 ```
-2. Open the `index.html` file and replace the title tag from React App to _TODO App_.
 
+## SOLUTION
+![](https://raw.githubusercontent.com/AndresFelipeGualdron/IETILAB1/master/images/1.PNG)
+2. Open the `index.html` file and replace the title tag from React App to _TODO App_.
+## SOLUTION
+![](https://raw.githubusercontent.com/AndresFelipeGualdron/IETILAB1/master/images/2.PNG)
 3. Open the `src/App.js` file and change the content of the paragraph tag (&lt;p&gt;) to `&lt;h1&gt;TODO React App&lt;/h1&gt;` (verify that the changes are reflected inmediately on your browser after you save without re-running your server).
 
 4. Go to Codecademy, register and do the first two modules (JSX and React Components) of the following course: https://www.codecademy.com/learn/react-101

@@ -168,3 +168,16 @@ class TodoApp extends React.Component {
   }
 }
 ```
+
+
+### TodoApp.js 1/2
+![](https://raw.githubusercontent.com/AndresFelipeGualdron/IETILAB1/master/images/10.JPG)
+
+### TodoApp.js 2/2
+![](https://raw.githubusercontent.com/AndresFelipeGualdron/IETILAB1/master/images/11.JPG)
+
+### App.js
+![](https://raw.githubusercontent.com/AndresFelipeGualdron/IETILAB1/master/images/12.JPG)
+
+### Result
+![](https://raw.githubusercontent.com/AndresFelipeGualdron/IETILAB1/master/images/13.JPG)
